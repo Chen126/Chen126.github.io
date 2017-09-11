@@ -194,16 +194,21 @@ body{
 	background: url("../images/fdj.png") no-repeat;
 	background-size: 100%;
 }
-.box .box_input{
-    width: 85%;
-    height: .57rem;
+.box .bi{
+    width: 83%;
+    height: .53rem;
     border: .02rem solid #ff6699;
-    outline: none;
-    padding-left: .1rem;
-    box-sizing: border-box;
     float: left;
     border-radius: 0 57rem 57rem 0;
     font-size: .25rem;
+}
+.box .box_input{
+	width: 80%;
+    height: .53rem;
+    outline: none;
+    border: none;
+    margin-left: .1rem;
+    box-sizing: border-box;
 }
 .top_nav .right{
 	width: 15%;
