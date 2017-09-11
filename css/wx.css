@@ -93,6 +93,7 @@ body{
 }
 #foot .box{
 	width: 25%;
+	padding-top:.02rem;
 	height: 100%;
 	float: left;
 	text-align: center;
@@ -205,6 +206,7 @@ body{
 }
 .box .box_input{
 	width: 80%;
+	maigin-top:.01rem;
     height: .50rem;
     outline: none;
     border: none;
