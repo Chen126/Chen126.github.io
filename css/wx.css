@@ -196,9 +196,10 @@ body{
 }
 .box .bi{
     width: 83%;
-    height: .53rem;
+    height: .57rem;
     border: .02rem solid #ff6699;
     float: left;
+    box-sizing: border-box;
     border-radius: 0 57rem 57rem 0;
     font-size: .25rem;
 }
