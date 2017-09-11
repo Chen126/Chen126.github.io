@@ -230,7 +230,6 @@ body{
 /*================中部==============*/
 #center{
 	max-width: 750px;
-	/*width: 100%;*/
 	position: absolute;
 	top: 1rem;
 	left: 0;
@@ -596,7 +595,7 @@ body{
 /*=========猜你喜欢==========*/
 #center .youlike{
 	width: 100%;
-	height: 16.5rem;
+	height: 15.8rem;
 	box-sizing: border-box;
 	padding: .25rem;
 }
